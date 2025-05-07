@@ -6,6 +6,8 @@ Roll no.: 2401010282
 
 ## Project info
 
+Video link : https://drive.google.com/file/d/1g4cN98UDz6gVFuSGKui4tHSfHyS4XxKU/view?usp=drivesdk
+
 Report file : https://docs.google.com/document/d/11MksJMgeUMhxAY7aTW3aW7mLMtCO_fg7/edit?usp=drivesdk&ouid=114650783454865350996&rtpof=true&sd=true
 
 PPT of the project : https://docs.google.com/presentation/d/11m5Aadq1ftoMc6uf1dUvBtcZ36TlLkWt/edit?usp=drivesdk&ouid=114650783454865350996&rtpof=true&sd=true
